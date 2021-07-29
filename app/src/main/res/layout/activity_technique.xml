@@ -15,7 +15,7 @@
             android:layout_width="wrap_content"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/squat_mate_safety"
+            android:src="@drawable/squat_mate_form"
             android:contentDescription="@string/squat_mate_logo" />
 
         <TextView

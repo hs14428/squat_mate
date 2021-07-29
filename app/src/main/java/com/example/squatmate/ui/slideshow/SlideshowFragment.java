@@ -18,6 +18,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.squatmate.R;
 import com.example.squatmate.SafetyActivity;
+import com.example.squatmate.TechniqueActivity;
 import com.example.squatmate.databinding.FragmentSlideshowBinding;
 
 public class SlideshowFragment extends Fragment implements AdapterView.OnItemClickListener {
@@ -28,12 +29,18 @@ public class SlideshowFragment extends Fragment implements AdapterView.OnItemCli
 
     private static final Class<?>[] CLASSES =
             new Class<?>[] {
-                SafetyActivity.class
+                TechniqueActivity.class,
+                SafetyActivity.class,
+                SafetyActivity.class,
+                SafetyActivity.class,
             };
 
     private static final int[] DESCRIPTION_IDS =
             new int[] {
-                R.string.learn_about_squats
+                R.string.squat_technique,
+                R.string.squat_benefits,
+                R.string.squat_stretches,
+                R.string.squat_safety
             };
 
     public View onCreateView(@NonNull LayoutInflater inflater,

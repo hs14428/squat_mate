@@ -16,10 +16,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SquatMate">
+        <activity android:name=".TechniqueActivity"></activity>
         <activity
             android:name=".SafetyActivity"
             android:label="Learn how to squat safely" />
-
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
