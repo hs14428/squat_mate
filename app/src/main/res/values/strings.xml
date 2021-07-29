@@ -14,20 +14,21 @@
     <string name="squat_safety_knee">Knee Safety When Squatting</string>
     <string name="squat_safety_knee_info">- Squatting, especially below parallel, is not bad for your knees if correct form is exercised\n\n
                                           - The majority of the associated risk is linked to incorrect biomechanical movement through the squat\n\n
-                                          - Remember to bend your knees and hips simultaneously when lowering and push your knees out to keep your things inline with your feet\n\n</string>
+                                          - Remember to bend your knees and hips simultaneously when lowering and push your knees out to keep your things inline with your feet\n</string>
 
     <string name="squat_safety_back">Back Safety When Squatting</string>
     <string name="squat_safety_back_info">- Like with the knees, your back will be safe throughout the lift if proper form is used\n\n
                                           - The key thing to remember is to keep your lower back and spine neutral, i.e. with a natural arch like when standing\n\n
-                                          - Try to keep the bar centered over the foot and don\'t arch or round your lower back. Both arching and rounding can cause stress on your spinal discs\n\n</string>
+                                          - Try to keep the bar centered over the foot and don\'t arch or round your lower back. Both arching and rounding can cause stress on your spinal discs\n</string>
 
     <string name="squat_safety_fail">What if I Can\'t Complete a Rep?</string>
     <string name="squat_safety_fail_info">- In order to squat alone safely, you must squat inside a power rack. Using a power rack with safety pins allows the lifter to safely lower the bar onto the pins and allows safe escape from under the bar\n\n
                                           - Before starting the lift, you should carry out a squat with an empty bar to ascertain correct safety pin height. Optimum position is just below your bottom position of the squat\n\n
                                           - When set up correctly, if you reach your depth and can\'t drive back up, you can squat slightly lower and place the bar onto the pins escape\n\n
                                           - If set up too high, the pins can cause an abrupt stop and jolt the lifter, if set too low, the lifter might not safely be able to lower on the pins are collapse.\n\n
-                                          - If squatting with spotters, try to have two, one either side of the barbell, as opposed to one behind\n\n</string>
+                                          - If squatting with spotters, try to have two, one either side of the barbell, as opposed to one behind\n</string>
 
 
     <string name="squat_mate_logo">squat_mate_logo</string>
+    <string name="learn_about_squats">Click here to learn about squats</string>
 </resources>

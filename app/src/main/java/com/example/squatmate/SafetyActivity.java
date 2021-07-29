@@ -14,18 +14,15 @@ import com.example.squatmate.ui.slideshow.SlideshowFragment;
 
 public class SafetyActivity extends AppCompatActivity {
 
-    private AppBarConfiguration mAppBarConfiguration;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_safety);
+        setTitle("Learn to squat safely");
     }
 
     public void goBack(View view)
     {
-//        Intent intent = new Intent(this, SlideshowFragment.class);
-//        startActivity(intent);
         FragmentManager fm = getSupportFragmentManager();
         if (fm.getBackStackEntryCount() > 0) {
             Log.i("MainActivity", "popping backstack");

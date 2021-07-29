@@ -33,7 +33,7 @@ public class SlideshowFragment extends Fragment implements AdapterView.OnItemCli
 
     private static final int[] DESCRIPTION_IDS =
             new int[] {
-                R.string.squat_safety_back
+                R.string.learn_about_squats
             };
 
     public View onCreateView(@NonNull LayoutInflater inflater,
