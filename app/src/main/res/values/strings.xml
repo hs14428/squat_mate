@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SquatMate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_get_started">Getting started</string>
+    <string name="menu_load_video">Load your squats</string>
+    <string name="menu_learn">Learn about squats</string>
+
+    <string name="squat_safety_knee">Click here to learn about knee safety</string>
+    <string name="squat_safety_lower_back">Click here to learn about lower back safety</string>
+
+    <string name="desc_squat_safety">Click here to learn about squat safety</string>
+</resources>
