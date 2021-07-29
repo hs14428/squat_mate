@@ -13,9 +13,6 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
@@ -36,7 +33,7 @@ public class SlideshowFragment extends Fragment implements AdapterView.OnItemCli
 
     private static final int[] DESCRIPTION_IDS =
             new int[] {
-                R.string.desc_squat_safety
+                R.string.squat_safety_back
             };
 
     public View onCreateView(@NonNull LayoutInflater inflater,
