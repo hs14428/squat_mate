@@ -35,5 +35,49 @@
     <string name="squat_safety">Click here to learn about squatting safely</string>
     <string name="learn_title">Choose a page to learn about squats</string>
 
+    <string name="how_to_squat"><u>How to squat 101</u></string>
+    <string name="how_to_squat_info"><li><b>1. Setup</b>\nFace the bar, grab it tight with a medium grip. Put it on your upper-back by dipping under the bar and raise your chest.</li>\n\n
+                                       <li><b>2. Un-rack</b>\nMove your feet under the bar and un-rack it by straightening your legs. Step back with straight legs, lock your hips and align your heels at shoulder-width.</li>\n\n
+                                       <li><b>3. Squat</b>\nTake a big breath, hold it and squat down. Push your knees out while moving your hips back whilst keeping your lower back neutral.</li>\n\n
+                                       <li><b>4. Break Parallel</b>\nSquat down until your hips are below your knees. If flexibility allows it, aim to break parallel as thighs parallel to the floor misses out on some muscle activation.</li>\n\n
+                                       <li><b>5. Squat up</b>\nDrive up from bottom position keeping your knees out and chest up. Lock your hips and straighten legs at the top and release your breathe.</li></string>
+
+    <string name="squat_form_101"><u>Master that form</u></string>
+    <string name="squat_form_101_info"><li><b>1. Stance: </b>Squat with your heels shoulder-width apart. Put your heels under your shoulders.</li>\n\n
+                                      <li><b>2. Feet: </b>Turn your feet out 30°. Keep your whole foot flat on the floor. Don’t raise your toes or heels.</li>\n\n
+                                      <li><b>3. Knees: </b>Push your knees to the side, in the direction of your feet. Lock your knees at the top of each rep.</li>\n\n
+                                      <li><b>4. Hips: </b>Bend your hips and knees at the same time. Move your hips back and down while pushing your knees out.</li>\n\n
+                                      <li><b>5. Lower Back: </b>Squat with a natural arch like when you stand. No rounding or excess arching. Keep your back neutral.</li>\n\n
+                                      <li><b>6. Grip: </b>Squeeze the bar hard. But don’t try to support heavy weight with your hands. Let your upper-back carry the bar.</li>\n\n
+                                      <li><b>7. Grip Width: </b>Use a medium grip, narrower than when you Bench Press. Your hands should be outside your shoulders.</li>\n\n
+                                      <li><b>8. Bar Position: </b>Put the bar on your traps (high bar). Center the bar.</li>\n\n
+                                      <li><b>9. Elbows: </b>Behind your torso at the top, not vertical or horizontal. Inline with your torso at the bottom of your Squat.</li>\n\n
+                                      <li><b>10. Upper-back: </b>Arch your upper-back to create support for the bar. Squeeze your shoulder-blades and raise your chest.</li>\n\n
+                                      <li><b>11. Chest: </b>Raise your chest before you un-rack the bar. Keep it up and tight by taking a big breath before you Squat down.</li>\n\n
+                                      <li><b>12. Head: </b>Keep your head inline with your torso. Don’t look at the ceiling or at your feet. Don’t turn your head sideways.</li>\n\n
+                                      <li><b>13. Back Angle: </b>Not vertical or horizontal but diagonal. The exact back angle depends on your build and bar position.</li>\n\n
+                                      <li><b>14. Un-racking: </b>Put the bar on your back and your feet under the bar. Un-rack it by straightening your legs. Walk back.</li>\n\n
+                                      <li><b>15. Way Down: </b>Bend your hips and knees at the same time. Hips back, knees out. Keep your lower back neutral.</li>\n\n
+                                      <li><b>16. Depth: </b>Squat down until your flexibility stops you, ideally reaching hips lower than knees.</li>\n\n
+                                      <li><b>18. Way Up: </b>Move you hips straight up. Keep your knees out, your chest up and your head neutral.</li>\n\n
+                                      <li><b>19. Between Reps: </b>Stand with your hips and knees locked. Breathe. Get tight for the next rep.</li>\n\n
+                                      <li><b>20. Racking: </b>Lock your hips and knees. Then step forward, hit the rack and bend your knees.</li>\n\n
+                                      <li><b>21. Bar Path: </b>Move the bar in a vertical line over your mid-foot. No horizontal movement.</li>\n\n
+                                      <li><b>22.  Breathing: </b>Big breath at the top. Hold it at the bottom. Exhale at the top.</li>\n\n</string>
+
+    <string name="squat_form_focus"><u>Form focal points</u></string>
+    <string name="squat_form_focus_info"><li><b>1. Setup</b>\nFace the bar, grab it tight with a medium grip. Put it on your upper-back by dipping under the bar and raise your chest.</li>\n\n
+                                       <li><b>2. Un-rack</b>\nMove your feet under the bar and un-rack it by straightening your legs. Step back with straight legs and lock your hips and knees.</li>\n\n
+                                       <li><b>3. Squat</b>\nTake a big breath, hold it and squat down. Push your knees out while moving your hips back whilst keeping your lower back neutral.</li>\n\n
+                                       <li><b>4. Break Parallel</b>\nSquat down until your hips are below your knees. If flexibility allows it, aim to break parallel as thighs parallel to the floor misses out on some muscle activation.</li>\n\n
+                                       <li><b>5. Squat up</b>\nDrive up from bottom position keeping your knees out and chest up. Lock your hips and straighten legs at the top and release your breathe.</li></string>
+
+    <string name="squat_mate_faq"><u>Form focal points</u></string>
+    <string name="squat_mate_faq_info"><li><b>1. Setup</b>\nFace the bar, grab it tight with a medium grip. Put it on your upper-back by dipping under the bar and raise your chest.</li>\n\n
+                                       <li><b>2. Un-rack</b>\nMove your feet under the bar and un-rack it by straightening your legs. Step back with straight legs and lock your hips and knees.</li>\n\n
+                                       <li><b>3. Squat</b>\nTake a big breath, hold it and squat down. Push your knees out while moving your hips back whilst keeping your lower back neutral.</li>\n\n
+                                       <li><b>4. Break Parallel</b>\nSquat down until your hips are below your knees. If flexibility allows it, aim to break parallel as thighs parallel to the floor misses out on some muscle activation.</li>\n\n
+                                       <li><b>5. Squat up</b>\nDrive up from bottom position keeping your knees out and chest up. Lock your hips and straighten legs at the top and release your breathe.</li></string>
+
 
 </resources>

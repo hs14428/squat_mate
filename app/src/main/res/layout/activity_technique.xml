@@ -11,7 +11,7 @@
         android:orientation="vertical">
 
         <ImageView
-            android:id="@+id/squat_mate_logo_s"
+            android:id="@+id/squat_mate_logo_f"
             android:layout_width="wrap_content"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
@@ -22,7 +22,7 @@
             android:id="@+id/knee_safety_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/squat_safety_knee"
+            android:text="@string/how_to_squat"
             android:padding="10dp"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
@@ -30,7 +30,7 @@
             android:id="@+id/knee_safety_body"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/squat_safety_knee_info"
+            android:text="@string/how_to_squat_info"
             android:padding="10dp"
             android:textAppearance="?android:attr/textAppearanceSmall" />
 
@@ -38,7 +38,7 @@
             android:id="@+id/back_safety_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/squat_safety_back"
+            android:text="@string/squat_form_101"
             android:padding="10dp"
             android:textAppearance="?android:attr/textAppearanceLarge" />
 
@@ -46,7 +46,7 @@
             android:id="@+id/back_safety_body"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/squat_safety_back_info"
+            android:text="@string/squat_form_101_info"
             android:padding="10dp"
             android:textAppearance="?android:attr/textAppearanceSmall" />
 
